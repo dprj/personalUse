@@ -1,2 +1,2 @@
 # personalUse
-Use info.js for more information.
+See info.js for more information.
